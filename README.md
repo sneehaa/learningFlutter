@@ -10,7 +10,7 @@ A simple Flutter app that displays a "Hello, World!" message. A beginner friendl
 ## Setup
 - Clone the repository:
 ```bash
-git clone https://github.com/yourusername/learningFlutter.git
+git clone https://github.com/sneehaa/learningFlutter.git
 ```
 - Navigate to the namer_app folder and run the app:
 ```bash
@@ -24,7 +24,7 @@ A simple Flutter app that generates random names. This project helped me get fam
 ## Setup
 - Clone the repository:
 ```bash
-git clone https://github.com/yourusername/learningFlutter.git
+git clone https://github.com/sneehaa/learningFlutter.git
 ```
 - Navigate to the namer_app folder and run the app:
 ```bash
